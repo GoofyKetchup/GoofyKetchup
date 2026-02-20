@@ -26,6 +26,6 @@ I'm a french middle school student passionated by scripting and pentest
 
 ## My Contacts
 
-E-Mail : goofyketchup@outlook.com
-Second E-Mail : goofyketchup67@gmail.com
-Discord : goofyketchup
+- E-Mail : goofyketchup@outlook.com
+- Second E-Mail : goofyketchup67@gmail.com
+- Discord : goofyketchup
