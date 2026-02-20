@@ -14,13 +14,13 @@ I am GoofyKetchup
 ## More About Me
 I'm a french middle school student passionated by scripting and pentest
 
-# Portofolio
+## Portofolio
 
 - Learned Tkinter and Pygame in Python
 - C/C++ Basic
 - Power Shell Scripting
 
-# All my scripting Softwarre
+## All my scripting Softwarre
 
 - VS Code
 
