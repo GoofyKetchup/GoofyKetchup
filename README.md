@@ -2,7 +2,7 @@
 
 I am GoofyKetchup
 
-- 🔭 I’m currently working on **PenWork**
+- 🔭 I’m currently working on **Ketchup-Kernel**
 - 🌱 I’m currently learning **C++**
 - 👯 I’m looking to collaborate on a **office suite**
 - 🤔 I’m looking for help with coding a **kernel**
