@@ -2,7 +2,7 @@
 
 I am GoofyKetchup
 
-- 🔭 I’m currently working on **on a Secret Project...**
+- 🔭 I’m currently working on **Root Spectre**
 - 🌱 I’m currently learning **C++**
 - 👯 I’m looking to collaborate on a **Pentest Framework**
 - 🤔 I’m looking for help with coding a **kernel**
