@@ -1,2 +1,1 @@
-I'm currently coding an x86 kernel.
-Don't mind me, just a python/c dev.
+I don't have projects rn, i'm running out of idea and lose motivation
