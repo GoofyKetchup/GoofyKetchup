@@ -1,1 +1,1 @@
-Currently working on QuarterPomodoro v1.0
+Currently working on QuarterPomodoro v1.1
